@@ -1,2 +1,2 @@
 # control_repo
-Puppet training repo
+Ignore me.
